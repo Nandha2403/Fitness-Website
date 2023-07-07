@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "wakeUpTime": "5am",
+      "foodTaken": "Dosa",
+      "month": "February",
+      "startTime": "4",
+      "endTime": "6",
+      "day": "Saturday",
+      "week": "Week-1",
+      "id": 1
+    },
+    {
+      "wakeUpTime": "5am",
+      "foodTaken": "Egg",
+      "month": "April",
+      "startTime": "5",
+      "endTime": "6",
+      "day": "Monday",
+      "week": "Week-1",
+      "id": 3
+    },
+    {
+      "month": "January",
+      "wakeUpTime": "5am",
+      "foodTaken": "rice",
+      "startTime": "2",
+      "endTime": "4",
+      "day": "Monday",
+      "week": "Week-1",
+      "id": 4
+    },
+    {
+      "month": "February",
+      "wakeUpTime": "6am",
+      "foodTaken": "Milk",
+      "startTime": "6",
+      "endTime": "7",
+      "day": "Wednesday",
+      "week": "Week-2",
+      "id": 5
+    },
+    {
+      "month": "April",
+      "wakeUpTime": "9am",
+      "foodTaken": "Roti",
+      "startTime": "3",
+      "endTime": "4",
+      "day": "Friday",
+      "week": "Week-3",
+      "id": 6
+    },
+    {
+      "month": "June",
+      "wakeUpTime": "5am",
+      "foodTaken": "milk",
+      "startTime": "5",
+      "endTime": "6",
+      "day": "Thursday",
+      "week": "Week-3",
+      "id": 7
+    },
+    {
+      "month": "Tuesday",
+      "wakeUpTime": "8pm",
+      "foodTaken": "dhall",
+      "startTime": "4",
+      "endTime": "6",
+      "day": "Saturday",
+      "week": "Week-4",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "username": "Nan",
+      "userEmail": "N@gmail.com",
+      "password": "123",
+      "singleUserData": [],
+      "id": 1
+    },
+    {
+      "username": "vijay",
+      "userEmail": "vijay@gmail.com",
+      "password": "123",
+      "singleUserData": [],
+      "id": 3
+    },
+    {
+      "username": "LCU",
+      "userEmail": "lcu@gmai.com",
+      "password": "lcu",
+      "singleUserData": [],
+      "id": 4
+    },
+    {
+      "username": "CR",
+      "userEmail": "Cr@gmail.com",
+      "password": "7",
+      "singleUserData": [
+        {
+          "month": "April",
+          "wakeUpTime": "9",
+          "foodTaken": "Roti",
+          "startTime": "3",
+          "endTime": "4",
+          "day": "Friday",
+          "week": "Week-3"
+        },
+        {
+          "month": "Tuesday",
+          "wakeUpTime": "8pm",
+          "foodTaken": "dhall",
+          "startTime": "4",
+          "endTime": "6",
+          "day": "Saturday",
+          "week": "Week-4"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
